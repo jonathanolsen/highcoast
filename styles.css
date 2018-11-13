@@ -9,4 +9,5 @@
     width: 100%; }
 
 #headshots {
-  background: #000; }
+  background: url("https://static1.squarespace.com/static/5bd987149d5abbd8c3790ba8/t/5beaa9f6758d463b0101fa89/1542105591011/bege.jpg") top center;
+  background-size: cover; }
