@@ -16,3 +16,19 @@
     top center;
   background-size: cover;
 }
+
+.Main-content {
+  padding: 120px 50px;
+}
+
+#yui_3_17_2_1_1542110866668_67 {
+  .col:last-of-type {
+    background: #ffffff;
+    box-shadow: 0 30px 60px -30px;
+
+    > div {
+      padding: 40px;
+      border: 2px solid #f0f1f5;
+    }
+  }
+}
